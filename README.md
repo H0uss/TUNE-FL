@@ -1,5 +1,5 @@
 # TUNE-FL-Adaptive-Semi-Synchronous-Semi-Decentralized-Federated-Learning
-
+Implementation of the paper https://ieeexplore.ieee.org/document/10975902/
 
 # Running the Experiments
 
